@@ -6,5 +6,4 @@
 
 void taskA() {
     std::cout << 12;
-    //dsa
 }
