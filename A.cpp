@@ -6,4 +6,5 @@
 
 void taskA() {
     std::cout << 12;
+    std::cout << 13;
 }
